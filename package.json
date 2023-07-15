@@ -1,0 +1,23 @@
+{
+  "name": "0023Modulo7PracticaBD",
+  "version": "1.0.0",
+  "description": "Práctiva BD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo7PracticaBD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo7PracticaBD/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo7PracticaBD#readme",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
